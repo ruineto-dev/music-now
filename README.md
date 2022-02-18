@@ -15,11 +15,6 @@ Application with the objective of bringing concepts of login, registration, api,
 - react
 - react-router-dom
 - styled-compents
-- node.js
-- express
-- mongodb
-- jwt
-- sendgrid
 
 By using this application, any user can make fictitious purchases and in turn receive a purchase confirmation email.
 
